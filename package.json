@@ -1,0 +1,29 @@
+{
+  "name": "oneid-indonesia",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build --webpack",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.24",
+    "lucide-react": "^0.468.0",
+    "next": "16.4.3",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.16",
+    "@types/node": "^22.19.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "eslint": "^9.38.0",
+    "eslint-config-next": "16.4.3",
+    "tailwindcss": "^4.1.16",
+    "typescript": "^5.9.3"
+  }
+}

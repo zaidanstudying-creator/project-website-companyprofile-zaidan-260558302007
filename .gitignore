@@ -1,0 +1,9 @@
+.next/
+node_modules/
+*.tsbuildinfo
+.taste-skill/
+.env*.local
+.vercel/
+/data/site-content.json
+/public/uploads/
+.DS_Store
