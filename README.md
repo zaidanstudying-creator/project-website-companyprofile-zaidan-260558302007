@@ -1,6 +1,6 @@
 # OneID Indonesia
 
-OneID Indonesia adalah landing page bilingual (Bahasa Indonesia dan English) untuk konsep ekosistem identitas digital. Website ini menampilkan informasi produk, manfaat, dan konten presentasi yang dapat dikelola melalui CMS admin lokal.
+OneID Indonesia adalah landing page bilingual (Bahasa Indonesia dan English) yang memperkenalkan konsep ekosistem identitas digital. Website ini menyajikan informasi, manfaat, dan visi OneID. Konten website juga dapat dikelola melalui CMS admin lokal.
 
 ## Teknologi
 
@@ -17,13 +17,7 @@ OneID Indonesia adalah landing page bilingual (Bahasa Indonesia dan English) unt
 
 ## Instalasi dan menjalankan project
 
-1. Clone repository dan masuk ke folder project:
-
-   ```bash
-   git clone <URL_REPOSITORY>
-   cd <NAMA_FOLDER_PROJECT>
-   ```
-
+1. Buka folder project di terminal.
 2. Pasang dependencies:
 
    ```bash
